@@ -1,0 +1,15 @@
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\SOLID - Principels\OCP\bin\Debug\net6.0\OCP.exe
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\SOLID - Principels\OCP\bin\Debug\net6.0\OCP.deps.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\SOLID - Principels\OCP\bin\Debug\net6.0\OCP.runtimeconfig.json
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\SOLID - Principels\OCP\bin\Debug\net6.0\OCP.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\SOLID - Principels\OCP\bin\Debug\net6.0\OCP.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\SOLID - Principels\OCP\obj\Debug\net6.0\OCP.csproj.AssemblyReference.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\SOLID - Principels\OCP\obj\Debug\net6.0\OCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\SOLID - Principels\OCP\obj\Debug\net6.0\OCP.AssemblyInfoInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\SOLID - Principels\OCP\obj\Debug\net6.0\OCP.AssemblyInfo.cs
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\SOLID - Principels\OCP\obj\Debug\net6.0\OCP.csproj.CoreCompileInputs.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\SOLID - Principels\OCP\obj\Debug\net6.0\OCP.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\SOLID - Principels\OCP\obj\Debug\net6.0\refint\OCP.dll
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\SOLID - Principels\OCP\obj\Debug\net6.0\OCP.pdb
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\SOLID - Principels\OCP\obj\Debug\net6.0\OCP.genruntimeconfig.cache
+C:\Users\T3637283\Documents\Linux_Material\ProjetosC#\SOLID - Principels\OCP\obj\Debug\net6.0\ref\OCP.dll
